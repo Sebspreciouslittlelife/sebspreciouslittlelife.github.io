@@ -156,13 +156,13 @@ a.button span {
 }
 
 #download-zip span {
-  background: transparent url(../images/IMG_2020.GIF) 5px 15% no-repeat;
+  background: transparent url(../images/IMG_2020.GIF) 5px .5% no-repeat;
 }
 #download-tar-gz span {
-  background: transparent url(../images/IMG_2020.GIF) 10px 20% no-repeat;
+  background: transparent url(../images/IMG_2020.GIF) 10px .10% no-repeat;
 }
 #view-on-github span {
-  background: transparent url(../images/IMG_2020.GIF) 15px 25% no-repeat;
+  background: transparent url(../images/IMG_2020.GIF) 15px .20% no-repeat;
 }
 #view-on-github {
   margin-right: 0;
