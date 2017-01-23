@@ -105,6 +105,10 @@ header h2 {
   margin-bottom: 40px;
 }
 
+#buttons {
+	margin-bottom: 40px;
+}
+
 a.button {
   display: block;
   float: left;
@@ -167,7 +171,7 @@ a.button span {
 	background: transparent url(../images/IMG_2020.GIF) ;
 }
 
-#photos{
+#photos {
 	margin-right: 0;
 }
 
