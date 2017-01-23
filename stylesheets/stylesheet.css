@@ -99,7 +99,6 @@ header h2 {
 
 #container .inner img {
   max-width: 100%;
-	height:auto;
 }
 
 #downloads {
@@ -161,18 +160,18 @@ a.button span {
 }
 
 #poetry span {
-	background: url(../images/IMG_2020.GIF) no-repeat left fixed;
-	background-clip: content-box;
+	background: transparent url(../images/IMG_2020.GIF);
+	background-size: contain;
 }
 
 #prose span {
 	background: transparent url(../images/IMG_2020.GIF) no-repeat left fixed;
-	background-clip: content-box;
+	background-size: contain;
 }
 
 #photos span {
 	background: transparent url(../images/IMG_2020.GIF) no-repeat left fixed ;
-	background-clip: content-box;
+	background-size: contain;
 }
 
 #photos {
@@ -180,16 +179,16 @@ a.button span {
 }
 
 #download-zip span {
-  background: transparent url(../images/IMG_2020.GIF) no-repeat center fixed ;
-	background-clip: content-box;
+ 	background: transparent url(../images/IMG_2020.GIF);
+	background-size: contain;
 }
 #download-tar-gz span {
-  background: transparent url(../images/IMG_2020.GIF) no-repeat center fixed ;
-	background-clip: content-box;
+ 	background: transparent url(../images/IMG_2020.GIF);
+	background-size: contain;
 }
 #view-on-github span {
-  background: transparent url(../images/IMG_2020.GIF) no-repeat center fixed ;
-	background-clip: content-box;
+ 	background: transparent url(../images/IMG_2020.GIF);
+	background-size: contain;
 }
 #view-on-github {
   margin-right: 0;
