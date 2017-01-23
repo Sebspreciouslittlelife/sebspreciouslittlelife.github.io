@@ -48,10 +48,10 @@ table {
 
 /* LAYOUT STYLES */
 body {
-  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: font-family: 'Amiko', sans-serif;;
   font-size: 1em;
   line-height: 1.5;
-  color: #6d6d6d;
+  color: black;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
   background-image: url("../images/htmhell.jpg");
   background-repeat: no-repeat;
