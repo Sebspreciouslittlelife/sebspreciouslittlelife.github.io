@@ -165,12 +165,12 @@ a.button span {
 }
 
 #prose span {
-	background: transparent url(../images/IMG_2020.GIF) no-repeat left fixed;
+	background: transparent url(../images/IMG_2020.GIF);
 	background-size: contain;
 }
 
 #photos span {
-	background: transparent url(../images/IMG_2020.GIF) no-repeat left fixed ;
+	background: transparent url(../images/IMG_2020.GIF);
 	background-size: contain;
 }
 
