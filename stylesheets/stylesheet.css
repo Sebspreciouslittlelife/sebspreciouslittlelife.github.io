@@ -105,7 +105,7 @@ header h2 {
   margin-bottom: 40px;
 }
 
-buttons {
+#buttons {
 	margin-bottom: 40px;
 }
 
@@ -131,12 +131,12 @@ a.button {
   border-right: solid 1px #b7b7b7;
   border-bottom: solid 1px #b3b3b3;
   border-left: solid 1px #b7b7b7;
-  border-radius: 30px;
+  /*border-radius: 30px;*/
   -webkit-box-shadow: 10px 10px 5px #888;
   -moz-box-shadow: 10px 10px 5px #888;
   box-shadow: 0px 1px 5px #e8e8e8;
-  -moz-border-radius: 30px;
-  -webkit-border-radius: 30px;
+  /*-moz-border-radius: 30px;
+  -webkit-border-radius: 30px;*/
 }
 a.button:hover {
   background: #fafafa; /* Old browsers */
