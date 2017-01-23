@@ -167,6 +167,10 @@ a.button span {
 	background: transparent url(../images/IMG_2020.GIF) ;
 }
 
+#photos{
+	margin-right: 0;
+}
+
 #download-zip span {
   background: transparent url(../images/IMG_2020.GIF) 0 .01% ;
 }
