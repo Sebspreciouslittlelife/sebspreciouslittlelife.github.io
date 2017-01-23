@@ -161,17 +161,17 @@ a.button span {
 
 #poetry span {
 	background: transparent url(../images/IMG_2020.GIF) no-repeat center fixed;
-	background-size: 100%;
+	background-clip: content-box;
 }
 
 #prose span {
 	background: transparent url(../images/IMG_2020.GIF) no-repeat center fixed;
-	background-size: 100%;
+	background-clip: content-box;
 }
 
 #photos span {
 	background: transparent url(../images/IMG_2020.GIF) no-repeat center fixed ;
-	background-size: 100%;
+	background-clip: content-box;
 }
 
 #photos {
@@ -180,12 +180,15 @@ a.button span {
 
 #download-zip span {
   background: transparent url(../images/IMG_2020.GIF) no-repeat center fixed ;
+	background-clip: content-box;
 }
 #download-tar-gz span {
   background: transparent url(../images/IMG_2020.GIF) no-repeat center fixed ;
+	background-clip: content-box;
 }
 #view-on-github span {
   background: transparent url(../images/IMG_2020.GIF) no-repeat center fixed ;
+	background-clip: content-box;
 }
 #view-on-github {
   margin-right: 0;
