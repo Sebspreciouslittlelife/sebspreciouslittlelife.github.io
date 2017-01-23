@@ -119,7 +119,7 @@ a.button {
   font-weight: bold;
   line-height: 25px;
   color: #303030;
-  background: #F5CDA7; /* Old browsers */
+  background: #F4E2B2; /* Old browsers */
  /* background: -moz-linear-gradient(top,  #fdfdfd 0%, #f2f2f2 100%); /* FF3.6+ */
  /* background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fdfdfd), color-stop(100%,#f2f2f2)); /* Chrome,Safari4+ */
   /*  background: -webkit-linear-gradient(top,  #fdfdfd 0%,#f2f2f2 100%); /* Chrome10+,Safari5.1+ */
@@ -139,7 +139,7 @@ a.button {
   -webkit-border-radius: 30px;*/
 }
 a.button:hover {
-  background: #F5CDA7; /* Old browsers */
+  background: #F4E2B2; /* Old browsers */
   /* background: -moz-linear-gradient(top,  #fdfdfd 0%, #f6f6f6 100%); /* FF3.6+ */
  /*  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fdfdfd), color-stop(100%,#f6f6f6)); /* Chrome,Safari4+ */
  /*  background: -webkit-linear-gradient(top,  #fdfdfd 0%,#f6f6f6 100%); /* Chrome10+,Safari5.1+ */
