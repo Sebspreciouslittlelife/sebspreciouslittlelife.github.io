@@ -160,15 +160,18 @@ a.button span {
 }
 
 #poetry span {
-	background: transparent url(../images/IMG_2020.GIF);
+	background: transparent url(../images/IMG_2020.GIF) no-repeat center fixed;
+	background-size: 100%;
 }
 
 #prose span {
-	background: transparent url(../images/IMG_2020.GIF);
+	background: transparent url(../images/IMG_2020.GIF) no-repeat center fixed;
+	background-size: 100%;
 }
 
 #photos span {
-	background: transparent url(../images/IMG_2020.GIF) ;
+	background: transparent url(../images/IMG_2020.GIF) no-repeat center fixed ;
+	background-size: 100%;
 }
 
 #photos {
