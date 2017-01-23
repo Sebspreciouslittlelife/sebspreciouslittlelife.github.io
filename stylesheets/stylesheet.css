@@ -156,15 +156,15 @@ a.button span {
 }
 
 #poetry span {
-	background: transparent url(../images/IMG_2020.GIF) 0 .01% ;
+	background: transparent url(../images/IMG_2020.GIF);
 }
 
 #prose span {
-	background: transparent url(../images/IMG_2020.GIF) 0 .01% ;
+	background: transparent url(../images/IMG_2020.GIF);
 }
 
 #photos span {
-	background: transparent url(../images/IMG_2020.GIF) 0 .01% ;
+	background: transparent url(../images/IMG_2020.GIF) ;
 }
 
 #download-zip span {
