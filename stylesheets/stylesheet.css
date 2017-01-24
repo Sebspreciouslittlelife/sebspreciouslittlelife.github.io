@@ -118,6 +118,7 @@ a.button {
   width: 179px;
   padding: 12px 8px 12px 8px;
   margin-right: 14px;
+  margin-top: 14px;
   font-size: 15px;
   font-weight: bold;
   line-height: 25px;
@@ -160,7 +161,6 @@ a.button span {
   display: block;
   height: 23px;
   padding-left: 50px;
-  padding-top: 50px;
 }
 
 #poetry span {
