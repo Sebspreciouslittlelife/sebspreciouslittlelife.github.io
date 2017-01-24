@@ -193,7 +193,12 @@ a.button span {
  	background: transparent url(../images/IMG_2020.GIF);
 	background-size: contain;
 }
-#view-on-github {
+
+#about span {
+	background: transparent url(../images/IMG_2020.GIF);
+	background-size: contain;
+}
+#about {
   margin-right: 0;
 }
 
