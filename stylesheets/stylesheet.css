@@ -321,11 +321,11 @@ p {
   margin-bottom: 20px;
   font-weight: 300;
   background: black;
-  background: -moz-linear-gradient(top, 100% black, white ); /* FF3.6+ */
-  background: -webkit-linear-gradient(top,100% black, white ); /* Chrome10+,Safari5.1+ */
-  background: -o-linear-gradient(top, 100% black, white ); /* Opera 11.10+ */
-  background: -ms-linear-gradient(top, 100% black, white ); /* IE10+ */
-  background: linear-gradient(top, 100% black, white ); /* W3C */
+  background: -moz-linear-gradient(top, 0% black, white ); /* FF3.6+ */
+  background: -webkit-linear-gradient(top,0% black, white ); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, 0% black, white ); /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, 0% black, white ); /* IE10+ */
+  background: linear-gradient(top, 0% black, white ); /* W3C */
   color:transparent;
   -webkit-background-clip: text;
   background-clip: text;
