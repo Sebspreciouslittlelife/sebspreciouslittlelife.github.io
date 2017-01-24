@@ -320,11 +320,11 @@ h6 {
 p {
   margin-bottom: 20px;
   font-weight: 300;
-  background-image: -moz-linear-gradient(top,  black, 80% white ); /* FF3.6+ */
-  background-image: -webkit-linear-gradient(top, black,  80% white ); /* Chrome10+,Safari5.1+ */
-  background-image: -o-linear-gradient(top, black, 80% white ); /* Opera 11.10+ */
-  background-image: -ms-linear-gradient(top,  black, 80% white ); /* IE10+ */
-  background-image: linear-gradient(top, black,  80% white ); /* W3C */
+  background-image: -moz-linear-gradient(top,  black, blue,  white ); /* FF3.6+ */
+  background-image: -webkit-linear-gradient(top, black,blue,   white ); /* Chrome10+,Safari5.1+ */
+  background-image: -o-linear-gradient(top, black, white ); /* Opera 11.10+ */
+  background-image: -ms-linear-gradient(top,  black, blue,  white ); /* IE10+ */
+  background-image: linear-gradient(top, black, blue, white ); /* W3C */
   color: transparent;
   -webkit-background-clip: text;
   background-clip: text;
