@@ -320,11 +320,14 @@ h6 {
 p {
   margin-bottom: 20px;
   font-weight: 300;
-  color: -moz-linear-gradient(top, black, white ); /* FF3.6+ */
-  color: -webkit-linear-gradient(top,black, white ); /* Chrome10+,Safari5.1+ */
-  color: -o-linear-gradient(top, black, white ); /* Opera 11.10+ */
-  color: -ms-linear-gradient(top, black, white ); /* IE10+ */
-  color: linear-gradient(top, black, white ); /* W3C */
+  background: -moz-linear-gradient(top, black, white ); /* FF3.6+ */
+  background: -webkit-linear-gradient(top,black, white ); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, black, white ); /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, black, white ); /* IE10+ */
+  background: linear-gradient(top, black, white ); /* W3C */
+  color:transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
 }
 
 a {
