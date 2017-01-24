@@ -320,7 +320,6 @@ h6 {
 p {
   margin-bottom: 20px;
   font-weight: 300;
-  background: black;
   background: -moz-linear-gradient(top, black, white ); /* FF3.6+ */
   background: -webkit-linear-gradient(top, black, white ); /* Chrome10+,Safari5.1+ */
   background: -o-linear-gradient(top, black, white ); /* Opera 11.10+ */
