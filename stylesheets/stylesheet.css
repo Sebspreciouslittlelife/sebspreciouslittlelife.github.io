@@ -131,7 +131,8 @@ a.button {
   box-shadow: 0px 1px 5px #e8e8e8;
   /*-moz-border-radius: 30px;
   -webkit-border-radius: 30px;*/
-
+  background: transparent url(../images/IMG_2020.GIF);
+  background-size: contain; 
 }
 a.button:hover {
   background: #FAEBD7; /* Old browsers */
