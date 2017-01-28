@@ -157,11 +157,11 @@ a.button span {
 }
 
 home span {
-	background: transparent url(../images/IMG_2020.GIF);
+	background-image: transparent url(../images/IMG_2020.GIF);
 	background-size: contain;
 }
 content span {
-	background: transparent url(../images/IMG_2020.GIF);
+	background-image: transparent url(../images/IMG_2020.GIF);
 	background-size: contain;
 }
 
