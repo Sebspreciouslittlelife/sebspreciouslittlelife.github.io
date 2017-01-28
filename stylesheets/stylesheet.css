@@ -104,12 +104,6 @@ header h2 {
   max-width: 100%;
 }
 
-buttons{
-	background: transparent url(../images/IMG_2020.GIF);
-  	background-size: contain; 
-	margin-bottom: 40px;
-}
-
 a.button {
   display: block;
   float: left;
@@ -135,7 +129,6 @@ a.button {
   -webkit-border-radius: 30px;*/
 	background-image: transparent url(../images/IMG_2020.GIF);
   	background-size: contain; 
-	margin-bottom: 40px;
 
 }
 a.button:hover {
@@ -147,13 +140,15 @@ a.button:hover {
   border-left: solid 1px blue;
 	background-image: transparent url(../images/IMG_2020.GIF);
   	background-size: contain; 
-	margin-bottom: 40px;
 }
 
 a.button span {
   display: block;
   height: 23px;
   padding-left: 50px;
+	background: transparent url(../images/IMG_2020.GIF);
+  	background-size: contain;
+	
 }
 
 home span {
