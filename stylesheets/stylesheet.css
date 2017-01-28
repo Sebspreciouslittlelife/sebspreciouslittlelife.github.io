@@ -104,7 +104,7 @@ header h2 {
   max-width: 100%;
 }
 
-buttons {
+buttons span{
 	background: transparent url(../images/IMG_2020.GIF);
   	background-size: contain; 
 	margin-bottom: 40px;
