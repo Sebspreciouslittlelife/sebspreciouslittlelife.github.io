@@ -159,7 +159,7 @@ img {
 header {
   width:270px;
   float:left;
-  position:absolute;
+  position:relative;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
