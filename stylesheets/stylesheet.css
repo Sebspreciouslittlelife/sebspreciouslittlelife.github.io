@@ -97,7 +97,7 @@ header h2 {
 
 .inner {
   width: 620px;
-  margin: auto auto;
+  margin: 0 auto;
 }
 
 #container .inner img {
@@ -106,7 +106,7 @@ header h2 {
 
 a.button {
   display: block;
-  float: left;
+  float: right;
   width: 50%;
   height: 50%;
   padding: auto;
