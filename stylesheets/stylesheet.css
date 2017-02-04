@@ -107,9 +107,10 @@ header h2 {
 a.button {
   display: block;
   float: left;
-  width: 25%;
-  height: 25%;
+  width: 50%;
+  height: 50%;
   padding: 20px 8px 20px 8px;
+  margin: 12px;
   font-size: 15px;
   font-weight: 9000;
   line-height: 25px;
@@ -154,13 +155,6 @@ home span {
 	background-size: contain;
 }
 
-#photos {
-  margin-right: 0;	
-}
-
-#about {
-  margin-right: 0;
-}
 
 code, pre {
   margin-bottom: 30px;
