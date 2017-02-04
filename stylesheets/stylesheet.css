@@ -109,7 +109,7 @@ a.button {
   margin: auto;
   width: 50%;
   height: 50%;
-  padding: auto;
+  padding: 20px 8px 20px 8px;
   font-size: 15px;
   font-weight: 9000;
   line-height: 25px;
@@ -238,6 +238,7 @@ form {
 /* GENERAL ELEMENT TYPE STYLES */
 
 h1 {
+  font-family: 'Shrikhand', cursive;	
   font-size: 32px;
 }
 
