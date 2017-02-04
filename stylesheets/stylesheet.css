@@ -239,6 +239,9 @@ form {
 
 h1 {
   font-family: 'Shrikhand', cursive;	
+  line-height: 1.2;
+  color: #303030;
+  letter-spacing: 1px;
   font-size: 32px;
 }
 
