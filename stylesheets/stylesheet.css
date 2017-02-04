@@ -91,12 +91,12 @@ header h2 {
 }
 
 #container {
-  min-height: 595px;
+  min-height: 480px;
  /*background: transparent url(../images/highlight-bg.jpg) 50% 0 no-repeat;*/
 }
 
 .inner {
-  width: 620px;
+  width: 676px;
   margin: 0 auto;
 }
 
@@ -142,7 +142,7 @@ a.button:hover {
 }
 
 a.button span {
-  display: inline;
+  display: block;
   padding-left: 50px;
   background: transparent url(../images/IMG_2020.GIF);
   background-size: contain;
