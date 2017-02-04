@@ -106,12 +106,10 @@ header h2 {
 
 a.button {
   display: block;
-  float: right;
+  margin: auto;
   width: 50%;
   height: 50%;
   padding: auto;
-  margin-right: 14px;
-  margin-top: 14px;
   font-size: 15px;
   font-weight: 9000;
   line-height: 25px;
