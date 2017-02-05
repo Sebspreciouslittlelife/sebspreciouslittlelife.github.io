@@ -81,7 +81,7 @@ header h1 {
   font-family: 'Shrikhand', cursive;
   font-size: 48px; font-weight: 900;
   line-height: 1.2;
-  color: #303030;
+  color: white;
   letter-spacing: 1px;
 }
 
@@ -236,7 +236,7 @@ form {
 h1 {
   font-family: 'Shrikhand', cursive;	
   line-height: 1.2;
-  color: #303030;
+  color: white;
   letter-spacing: 1px;
   font-size: 32px;
 }
@@ -274,14 +274,14 @@ h6 {
 p {
   margin-bottom: 20px;
   font-weight: 300;
-  background-image: -moz-linear-gradient(top,  black, blue,  white ); /* FF3.6+ */
-  background-image: -webkit-linear-gradient(top, black,blue,   white ); /* Chrome10+,Safari5.1+ */
-  background-image: -o-linear-gradient(top, black, white ); /* Opera 11.10+ */
-  background-image: -ms-linear-gradient(top,  black, blue,  white ); /* IE10+ */
-  background-image: linear-gradient(top, black, blue, white ); /* W3C */
-  color: transparent;
+ /* background-image: -moz-linear-gradient(top,  black, blue,  white ); /* FF3.6+ */
+  /*background-image: -webkit-linear-gradient(top, black,blue,   white ); /* Chrome10+,Safari5.1+ */
+  /*background-image: -o-linear-gradient(top, black, white ); /* Opera 11.10+ */
+  /*background-image: -ms-linear-gradient(top,  black, blue,  white ); /* IE10+ */
+  /*background-image: linear-gradient(top, black, blue, white ); /* W3C */
+  /*color: transparent;
   -webkit-background-clip: text;
-  background-clip: text;
+  background-clip: text;*/
 }
 
 a {
