@@ -59,6 +59,9 @@ body {
   background: -o-linear-gradient(top,  #91B5FF, #97C4E5, #B792B7, #9B5E6D, #875546); /* Opera 11.10+ */
   background: -ms-linear-gradient(top,  #91B5FF, #97C4E5, #B792B7, #9B5E6D, #875546); /* IE10+ */
   background: linear-gradient(top,  #91B5FF, #97C4E5, #B792B7, #9B5E6D, #875546); /* W3C */
+  background-image: transparent url('http://i.imgur.com/INZkyuF.gif') repeat;
+  background-size: contain;
+	
 
 	
 }
