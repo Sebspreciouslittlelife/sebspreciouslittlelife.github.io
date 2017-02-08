@@ -106,7 +106,8 @@ header h2 {
 
 a.button {
   display: block;
-  width: 100%;
+  width: 400px;
+  padding: 20px;
   font-size: 15px;
   font-weight: 9000;
   line-height: 25px;
