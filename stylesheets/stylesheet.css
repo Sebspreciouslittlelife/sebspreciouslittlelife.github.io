@@ -109,7 +109,7 @@ header h2 {
 
 a.button {
   display: block;
-  width: 100px;
+  width: 100%;
   margin: 12px;
   font-size: 15px;
   font-weight: 9000;
@@ -187,7 +187,6 @@ ul, ol, dl {
   display: block;
   float: left;
   text-align: center;
-  margin: 12px;
 }
 
 
