@@ -147,7 +147,7 @@ a.button span {
 	
 }
 
-home span {
+#home {
 	width:200px;
 	background-image: transparent url(../images/IMG_2020.GIF);
 	background-size: contain;
