@@ -60,10 +60,7 @@ body {
   /*background: -o-linear-gradient(top,  #91B5FF, #97C4E5, #B792B7, #9B5E6D, #875546); /* Opera 11.10+ */
   /*background: -ms-linear-gradient(top,  #91B5FF, #97C4E5, #B792B7, #9B5E6D, #875546); /* IE10+ */
   /*background: linear-gradient(top,  #91B5FF, #97C4E5, #B792B7, #9B5E6D, #875546); /* W3C */
-  background-image: url("http://i.imgur.com/INZkyuF.gif");
-	
-
-	
+  background-image: url("http://i.imgur.com/INZkyuF.gif");	
 }
 
 a {
@@ -110,7 +107,6 @@ header h2 {
 a.button {
   display: block;
   width: 100%;
-  margin: 12px;
   font-size: 15px;
   font-weight: 9000;
   line-height: 25px;
