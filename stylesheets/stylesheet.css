@@ -106,7 +106,7 @@ header h2 {
 
 a.button {
   display: block;
-  width: 400px;
+  width: 100%;
   padding: 20px;
   font-size: 15px;
   font-weight: 9000;
@@ -301,7 +301,7 @@ ul li {
   list-style-position: inside;
   list-style: none;
   float: left;
-  margin: 12px;
+  width: 25%;
 }
 
 ol li {
