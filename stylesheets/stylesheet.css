@@ -35,7 +35,8 @@ ol, ul {
 }
 ul.button {
   display: block;
-  width: 25%;
+  float: left;
+  width: 400px;
   padding: 20px 8px 20px 8px;
   margin: 12px;
   margin-right: 0;
@@ -44,7 +45,6 @@ ul.button {
   font-weight: 9000;
   line-height: 25px;
   color: Black;
-  text-align: center;
   background: #F4E2B2; /* Old browsers */
    /* filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fdfdfd', endColorstr='#f2f2f2',GradientType=0 ); /* IE6-9 */
   border-top: solid 1px blue;
@@ -74,9 +74,7 @@ ul.button:hover {
 
 ul.button span{
   display: block;
-  padding-left: 50px;
-  background: transparent url(../images/IMG_2020.GIF);
-  background-size: contain;
+  text-align: center;
 	
 }
 
@@ -237,7 +235,6 @@ pre code {
 ul, ol, dl {
   display: block;
   float: left;
-  width: 25%;
   text-align: center;
   margin: 12px;
 }
@@ -353,11 +350,8 @@ blockquote {
 }
 
 ul li {
-  display: block;
-  float: left;
-  width: 25%;
-  text-align: center;
-  margin: 12px;
+  list-style-position: inside;
+  list-style: none;
 }
 
 ol li {
