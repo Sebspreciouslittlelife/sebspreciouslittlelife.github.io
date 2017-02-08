@@ -110,11 +110,8 @@ header h2 {
 
 a.button {
   display: block;
-  width: 25%;
-  padding: 20px 8px 20px 8px;
+  width: 100px;
   margin: 12px;
-  margin-right: 0;
-  margin-left: 0;
   font-size: 15px;
   font-weight: 9000;
   line-height: 25px;
@@ -149,7 +146,6 @@ a.button:hover {
 
 a.button span {
   display: block;
-  padding-left: 50px;
   background: transparent url(../images/IMG_2020.GIF);
   background-size: contain;
 	
