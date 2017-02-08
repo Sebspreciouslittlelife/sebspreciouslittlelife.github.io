@@ -32,52 +32,8 @@ body {
 }
 ol, ul {
 	list-style: none;
+	float: left;
 }
-ul.button {
-  display: block;
-  float: left;
-  width: 400px;
-  padding: 20px 8px 20px 8px;
-  margin: 12px;
-  margin-right: 0;
-  margin-left: 0;
-  font-size: 15px;
-  font-weight: 9000;
-  line-height: 25px;
-  color: Black;
-  background: #F4E2B2; /* Old browsers */
-   /* filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fdfdfd', endColorstr='#f2f2f2',GradientType=0 ); /* IE6-9 */
-  border-top: solid 1px blue;
-  border-right: solid 1px blue;
-  border-bottom: solid 1px blue;
-  border-left: solid 1px blue;
-  /*border-radius: 30px;*/
-  -webkit-box-shadow: 10px 10px 5px #888;
-  -moz-box-shadow: 10px 10px 5px #888;
-  box-shadow: 0px 1px 5px #e8e8e8;
-  /*-moz-border-radius: 30px;
-  -webkit-border-radius: 30px;*/
-  background-image: transparent url(../images/IMG_2020.GIF);
-  background-size: contain; 
-}
-
-ul.button:hover {
-  background: #FAEBD7; /* Old browsers */
- /*  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fdfdfd', endColorstr='#f6f6f6',GradientType=0 ); /* IE6-9 */
-  border-top: solid 1px blue;
-  border-right: solid 1px blue;
-  border-bottom: solid 1px blue;
-  border-left: solid 1px blue;
-  background-image: transparent url(../images/IMG_2020.GIF);
-  background-size: contain; 
-}
-
-ul.button span{
-  display: block;
-  text-align: center;
-	
-}
-
 
 blockquote, q {
 	quotes: none;
@@ -350,8 +306,10 @@ blockquote {
 }
 
 ul li {
+  display: block;
   list-style-position: inside;
   list-style: none;
+  margin: 12px;
 }
 
 ol li {
