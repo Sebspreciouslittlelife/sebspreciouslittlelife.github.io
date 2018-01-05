@@ -23,22 +23,17 @@
 	
 	
  <div id="container">
-		<div class="inner">
+	<div class="inner">
 		
 		<header>
    		 </header>
        
     <img src="../images/imb_21248111-D239-4D3A-AF18-952CD55D0AC1.gif" style="width:100%">
 
-<br>
+<br>			
+<br><br>
 
-<div style="text-align:center">
-  <span class="dot" onclick="currentSlide(1)"></span> 
-</div>
-			
-			
-	<br><br>
-			<a href="http://sebastiantaylor.org" id="home" class="button"><span>Home</span></a>
+<a href="http://sebastiantaylor.org" id="home" class="button"><span>Home</span></a>
     
     </div>
     </div>
