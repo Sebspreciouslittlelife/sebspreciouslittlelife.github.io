@@ -57,12 +57,12 @@
 body {
   /*background-color: #fff;*/
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#727272;
+  color:#8F3985;
   font-weight:400;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#222;
+  color:#25283D;
   margin:0 0 20px;
 }
 
@@ -79,7 +79,7 @@ h1 {
 }
 
 h2 {
-  color:#393939;
+  color:#967AA1;
 }
 
 h3, h4, h5, h6 {
