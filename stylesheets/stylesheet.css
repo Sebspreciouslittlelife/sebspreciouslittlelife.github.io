@@ -57,9 +57,10 @@ body {
   font-family: 'Amiko', sans-serif;;
   font-size: 1em;
   line-height: 1.5;
-  color: white;
+  color: #F5E6E8;
  /* text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);*/
   background:#8F3985;
+  background:url("FILE.EXT") repeat-y left top COLOR;
   /*background: -moz-linear-gradient(top,  #91B5FF, #97C4E5, #B792B7, #9B5E6D, #875546); /* FF3.6+ */
   /*background: -webkit-linear-gradient(top, #91B5FF, #97C4E5, #B792B7, #9B5E6D, #875546 ); /* Chrome10+,Safari5.1+ */
   /*background: -o-linear-gradient(top,  #91B5FF, #97C4E5, #B792B7, #9B5E6D, #875546); /* Opera 11.10+ */
@@ -68,10 +69,10 @@ body {
 }
 
 a {
-  color: blue;
+  color: #25283D;
 }
 a:hover {
-  color: purple;
+  color: #F5E6E8;
 }
 
 header {
@@ -83,7 +84,7 @@ header h1 {
   font-family: 'Shrikhand', cursive;
   font-size: 48px; font-weight: 900;
   line-height: 1.2;
-  color: white;
+  color:  #F5E6E8;
   letter-spacing: 1px;
 }
 
@@ -91,7 +92,7 @@ header h2 {
   font-size: 24px;
   font-weight: normal;
   line-height: 1.3;
-  color: white;
+  color:  #F5E6E8;
 }
 
 #container {
@@ -239,7 +240,7 @@ form {
 h1 {
   font-family: 'Shrikhand', cursive;	
   line-height: 1.2;
-  color: white;
+  color:  #F5E6E8;
   letter-spacing: 1px;
   font-size: 32px;
 }
@@ -248,30 +249,30 @@ h2 {
   margin-bottom: 8px;
   font-size: 22px;
   font-weight: bold;
-  color: white;
+  color:  #F5E6E8;
 }
 
 h3 {
   margin-bottom: 8px;
   font-size: 18px;
   font-weight: bold;
-  color: white;
+  color:  #F5E6E8;
 }
 
 h4 {
   font-size: 16px;
   font-weight: bold;
-  color: white;
+  color:  #F5E6E8;
 }
 
 h5 {
   font-size: 1em;
-  color: white;
+  color:  #F5E6E8;
 }
 
 h6 {
   font-size: .8em;
-  color: white;
+  color:  #F5E6E8;
 }
 
 p {
@@ -330,10 +331,10 @@ footer {
 }
 
 footer a {
-  color: #666;
+  color:  #F5E6E8;
 }
 footer a:hover {
-  color: #444;
+  color: #AAA1C8;
 }
 
 /* MISC */
