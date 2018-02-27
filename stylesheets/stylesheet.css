@@ -60,7 +60,7 @@ body {
   color: #F5E6E8;
  /* text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);*/
   background:#8F3985;
-  background:url("FILE.EXT") repeat-y left top COLOR;
+  background: linear-gradient(top, #8F3985,#967AA1,#AAA1C8);
   /*background: -moz-linear-gradient(top,  #91B5FF, #97C4E5, #B792B7, #9B5E6D, #875546); /* FF3.6+ */
   /*background: -webkit-linear-gradient(top, #91B5FF, #97C4E5, #B792B7, #9B5E6D, #875546 ); /* Chrome10+,Safari5.1+ */
   /*background: -o-linear-gradient(top,  #91B5FF, #97C4E5, #B792B7, #9B5E6D, #875546); /* Opera 11.10+ */
