@@ -16,7 +16,7 @@ figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	padding: 0;
-	margin: 0;
+	margin: 0 auto;
 	font: inherit;
 	font-size: 100%;
 	vertical-align: baseline;
@@ -326,7 +326,7 @@ footer {
   padding-bottom: 30px;
   margin-top: 40px;
   font-size: 13px;
-  color: #aaa;
+  color: #f5e6e8;
   background: transparent url('../images/hr.png') 0 0 no-repeat;
 }
 
