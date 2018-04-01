@@ -69,6 +69,7 @@ body {
   background: -o-linear-gradient(top, #8F3985,#967AA1,#AAA1C8); /* Opera 11.10+ */
   background: -ms-linear-gradient(top, #8F3985,#967AA1,#AAA1C8); /* IE10+ */
   background: linear-gradient(top, #8F3985,#967AA1,#AAA1C8); /* W3C */	
+  margin:0;
 }
 
 a {
