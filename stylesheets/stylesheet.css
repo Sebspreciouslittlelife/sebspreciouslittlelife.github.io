@@ -69,7 +69,6 @@ body {
   background: -o-linear-gradient(top, #8F3985,#967AA1,#AAA1C8); /* Opera 11.10+ */
   background: -ms-linear-gradient(top, #8F3985,#967AA1,#AAA1C8); /* IE10+ */
   background: linear-gradient(top, #8F3985,#967AA1,#AAA1C8); /* W3C */	
-  margin:0;
 }
 
 a {
@@ -88,6 +87,7 @@ header {
   width: 100%;
   margin: 0;
   padding: 50px;
+  float: none;
 }
 
 header h1 {
@@ -115,7 +115,7 @@ header h2 {
 
 .inner {
   width: 676px;
-  margin: 0 auto;
+  margin: 0;
 }
 
 #container .inner img {
