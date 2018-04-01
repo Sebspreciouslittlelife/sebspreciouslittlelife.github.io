@@ -81,11 +81,12 @@ a:hover {
 header {
   padding-top: 35px;
   padding-bottom: 25px;
+  padding: 20px;
   position: fixed;
   top: 0;
   background: #8f3985;
   width: 100%;
-  margin: 0 0 20px 20px;
+  margin: 0 0 20px;
 }
 
 header h1 {
