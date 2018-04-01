@@ -81,6 +81,8 @@ header {
   position: fixed;
   top: 20px;
   background: #967aa1;
+  width: 100%;
+  margin: 10px;
 }
 
 header h1 {
