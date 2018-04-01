@@ -55,7 +55,7 @@ table {
 /* LAYOUT STYLES */
 body {
   position: relative;
-  padding: 20px;
+  /*padding: 20px;*/
   top: 100px;
   font-family: 'Amiko', sans-serif;;
   font-size: 1em;
