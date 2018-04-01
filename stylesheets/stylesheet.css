@@ -78,10 +78,10 @@ a:hover {
 header {
   padding-top: 35px;
   padding-bottom: 25px;
-  position: fixed;
+  position: absolute;
   top: 0;
   background: #967aa1;
-  width: 580px;
+  width: 570px;
   margin: 0 auto;
   padding: 50px;
 }
