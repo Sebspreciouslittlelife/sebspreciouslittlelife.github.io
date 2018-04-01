@@ -55,12 +55,13 @@ table {
 /* LAYOUT STYLES */
 body {
   position: relative;
-  /*padding: 20px;*/
+  padding: 20px;
   top: 100px;
   font-family: 'Amiko', sans-serif;;
   font-size: 1em;
   line-height: 1.5;
   color: #aaa1c8;
+  margin: 0 auto;
  /* text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);*/
   background:#8F3985;
   background: linear-gradient(top, #8F3985,#967AA1,#AAA1C8);
