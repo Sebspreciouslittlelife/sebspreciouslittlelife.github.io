@@ -82,7 +82,7 @@ header {
   top: 20px;
   background: #967aa1;
   width: 480px;
-  margin: 0;
+  margin: 0 auto;
 }
 
 header h1 {
@@ -107,7 +107,7 @@ header h2 {
 
 .inner {
   width: 676px;
-  margin: 0;
+  margin: 0 auto;
 }
 
 #container .inner img {
@@ -389,7 +389,7 @@ footer a:hover {
 @media only screen and (max-width: 479px) { }
 
 .videoWrapper {
-	position: absolute;
+	position: relative;
 	padding-bottom: 56.25%; /* 16:9 */
 	padding-top: 25px;
 	height: 0;
