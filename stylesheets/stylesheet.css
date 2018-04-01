@@ -85,7 +85,7 @@ header {
   top: 0;
   background: #8f3985;
   width: 100%;
-  margin: 0;
+  margin: 0 0 20px;
 }
 
 header h1 {
@@ -107,7 +107,7 @@ header h2 {
 
 #container {
   min-height: 480px;
-  padding: 10px;
+  padding: 0px;
  /*background: transparent url(../images/highlight-bg.jpg) 50% 0 no-repeat;*/
 }
 
