@@ -159,7 +159,7 @@ img {
 header {
   width:870px;
   float:left;
-  position:relative;
+  position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
@@ -251,7 +251,7 @@ footer {
 
   div.wrapper {
     width:870px;
-    margin:50px;
+    /*margin:50px;*/
   }
 
   header, section, footer {
