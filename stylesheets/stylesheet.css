@@ -401,10 +401,11 @@ footer a:hover {
 	padding-bottom: 56.25%; /* 16:9 */
 	padding-top: 25px;
 	height: 0;
+	float: below;
 }
 
 .videoWrapper iframe {
-	position: absolute;
+	position: relative;
 	top: 0;
 	left: 0;
 	width: 100%;
