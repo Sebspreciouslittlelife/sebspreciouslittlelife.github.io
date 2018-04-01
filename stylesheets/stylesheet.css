@@ -54,6 +54,7 @@ table {
 
 /* LAYOUT STYLES */
 body {
+  position: relative;
   font-family: 'Amiko', sans-serif;;
   font-size: 1em;
   line-height: 1.5;
@@ -78,10 +79,10 @@ a:hover {
 header {
   padding-top: 35px;
   padding-bottom: 25px;
-  position: relative;
+  position: fixed;
   top: 0;
   background: #967aa1;
-  width: 570px;
+  width: 56.25%;
   margin: 0 auto;
   padding: 50px;
 }
