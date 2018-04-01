@@ -84,10 +84,9 @@ header {
   position: fixed;
   top: 0;
   background: #8f3985;
-  width: 100%;
+  width: 90%;
   margin: 0;
   padding: 50px;
-  float: none;
 }
 
 header h1 {
@@ -401,7 +400,6 @@ footer a:hover {
 	padding-bottom: 56.25%; /* 16:9 */
 	padding-top: 25px;
 	height: 0;
-	float: none;
 }
 
 .videoWrapper iframe {
