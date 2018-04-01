@@ -84,8 +84,8 @@ header {
   position: fixed;
   top: 0;
   background: #8f3985;
-  width: 567;
-  margin: 0 auto;
+  width: 100%;
+  margin: 0;
   padding: 50px;
 }
 
