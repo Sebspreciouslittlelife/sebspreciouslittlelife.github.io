@@ -164,6 +164,7 @@ header {
   width:870px;
   float:left;
   position:fixed;
+  border-radius: 25px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
