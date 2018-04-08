@@ -55,7 +55,10 @@
 }
 
 body {
-  /*background-color: #fff;*/
+  background-image: url("../images/DSCF2909.JPG");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#8F3985;
   font-weight:400;
