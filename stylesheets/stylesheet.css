@@ -477,7 +477,7 @@ footer a:hover {
 
 /* Caption text */
 .text {
-  color: #f2f2f2;
+  color: black;
   font-size: 15px;
   padding: 8px 12px;
   position: absolute;
@@ -488,7 +488,7 @@ footer a:hover {
 
 /* Number text (1/3 etc) */
 .numbertext {
-  color: #f2f2f2;
+  color: black;
   font-size: 12px;
   padding: 8px 12px;
   position: absolute;
