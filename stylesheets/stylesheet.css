@@ -371,7 +371,9 @@ footer {
   background-color: #AAA1C7;
   width: 100%;
   bottom:0;
-	text-align:left;
+  margin: 0;
+  padding: 20px;
+  text-align:left;
   font-size:13px;
 }
 
