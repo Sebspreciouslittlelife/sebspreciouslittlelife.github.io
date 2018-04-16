@@ -353,6 +353,9 @@ dl dt {
   padding: 20px;
   margin-top: 20px;
   box-shadow: 5px 10px;
+  white-space: nowrap; 
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 /* Clear floats after the columns */
