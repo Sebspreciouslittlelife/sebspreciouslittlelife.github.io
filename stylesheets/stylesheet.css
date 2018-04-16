@@ -370,15 +370,14 @@ footer {
   padding-bottom: 30px;
   margin-top: 40px;
   font-size: 13px;
-  color: #AAA1C8;
-  background: transparent url('../images/hr.png') 0 0 no-repeat;
+  background-color: #AAA1C8;
 }
 
 footer a {
   color:  #F5E6E8;
 }
 footer a:hover {
-  color: #AAA1C8;
+  color: #AAA1C7;
 }
 
 /* MISC */
