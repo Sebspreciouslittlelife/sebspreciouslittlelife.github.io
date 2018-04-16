@@ -366,11 +366,9 @@ dl dt {
 }
 
 footer {
-  padding-top: 35px;
   padding-bottom: 25px;
-  padding: 20px;
   position: relative;
-  background: #AAA1C7;
+  background-color: #AAA1C7;
   width: 100%;
   bottom:0;
 	text-align:left;
