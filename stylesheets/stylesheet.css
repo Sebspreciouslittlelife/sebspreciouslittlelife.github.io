@@ -62,7 +62,7 @@ body {
   line-height: 1.5;
   color: #494556;
  /* text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);*/
-  background:#8F3985;
+ /* background:#8F3985;*/
   background: linear-gradient(top, #8F3985,#967AA1,#AAA1C8);
   background: -moz-linear-gradient(top, #8F3985,#967AA1,#AAA1C8); /* FF3.6+ */
   background: -webkit-linear-gradient(top, #8F3985,#967AA1,#AAA1C8); /* Chrome10+,Safari5.1+ */
