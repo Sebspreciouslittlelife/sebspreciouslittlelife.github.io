@@ -365,13 +365,11 @@ dl dt {
 }
 
 footer {
-  padding-bottom: 25px;
   position: relative;
   background-color: #AAA1C7;
   width: 100%;
   bottom:0;
   margin: 0;
-  padding-top: 30px;
   text-align:left;
   font-size:13px;
 }
