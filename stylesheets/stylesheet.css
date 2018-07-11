@@ -54,8 +54,7 @@ table {
 
 /* LAYOUT STYLES */
 body {
-  position: relative;
-  /*padding: 20px;*/
+  position: static;
   top: 100px;
   font-family: 'Amiko', sans-serif;;
   font-size: 1em;
@@ -400,7 +399,7 @@ footer a:hover {
 
 /* The side navigation menu */
 .sidenav {
-    height: 40%; /* 100% Full-height */
+    height: 50%; /* 100% Full-height */
     width: 20%; /* 0 width - change this with JavaScript */
     position: fixed; /* Stay in place */
     z-index: 1; /* Stay on top */
