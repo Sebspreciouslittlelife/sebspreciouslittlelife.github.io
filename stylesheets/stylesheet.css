@@ -399,11 +399,12 @@ footer a:hover {
 
 /* The side navigation menu */
 .sidenav {
+    padding: 20px;
     height: 50%; /* 100% Full-height */
     width: 20%; /* 0 width - change this with JavaScript */
     position: fixed; /* Stay in place */
     z-index: 1; /* Stay on top */
-    top: 30; /* Stay at the top */
+    top: 20; /* Stay at the top */
     left: 0;
     background-color: #8f3985;
     overflow-x: hidden; /* Disable horizontal scroll */
