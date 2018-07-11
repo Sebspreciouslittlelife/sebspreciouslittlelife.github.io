@@ -79,9 +79,8 @@ a:hover {
 }
 
 header {
-
   padding: 20px;
-  position: static;
+  position: relative;
   top: 0;
   background: #8f3985;
   width: 100%;
@@ -401,11 +400,11 @@ footer a:hover {
 
 /* The side navigation menu */
 .sidenav {
-    height: 35%; /* 100% Full-height */
+    height: 40%; /* 100% Full-height */
     width: 20%; /* 0 width - change this with JavaScript */
     position: fixed; /* Stay in place */
     z-index: 1; /* Stay on top */
-    top: 0; /* Stay at the top */
+    top: 30; /* Stay at the top */
     left: 0;
     background-color: #8f3985;
     overflow-x: hidden; /* Disable horizontal scroll */
