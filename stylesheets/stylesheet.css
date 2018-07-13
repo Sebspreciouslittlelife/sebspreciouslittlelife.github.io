@@ -407,13 +407,6 @@ footer a:hover {
     overflow-x: hidden; /* Disable horizontal scroll */
 }
 
-body{
-	overflow:hidden;
-	background-color:#fcfcfc;
-	margin:0;
-	padding:0;
-}
-
 .magazine-viewport .container{
 	position:absolute;
 	top:50%;
