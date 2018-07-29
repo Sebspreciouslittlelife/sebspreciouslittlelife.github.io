@@ -68,6 +68,17 @@ body {
   background: linear-gradient(top, #8F3985,#967AA1,#AAA1C8); /* W3C */	
 }
 
+.menu {
+	position: absolute;
+	color: #F5E6E8;
+	width:250px;
+	height: 100%;
+	z-index: 6;
+}
+
+
+	
+
 a {
   color: #25283D;
 }
