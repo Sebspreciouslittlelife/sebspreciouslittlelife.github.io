@@ -134,7 +134,7 @@ header h2 {
   max-width: 100%;
 }
 
-a.button {
+.button {
   display: block;
   padding: 10px;
   font-size: 15px;
@@ -159,7 +159,7 @@ a.button {
   background-size: contain; 
 
 }
-a.button:hover {
+.button:hover {
   background: #FAEBD7; /* Old browsers */
  /*  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fdfdfd', endColorstr='#f6f6f6',GradientType=0 ); /* IE6-9 */
   border-top: solid 1px blue;
@@ -170,7 +170,7 @@ a.button:hover {
   background-size: contain; 
 }
 
-a.button span {
+.button span {
   display: block;
   background: transparent url(../images/IMG_2020.GIF);
   background-size: contain;
