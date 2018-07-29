@@ -68,14 +68,23 @@ body {
   background: linear-gradient(top, #8F3985,#967AA1,#AAA1C8); /* W3C */	
 }
 
+
 .menu {
-	position: fixed;
-	background-color: #F5E6E8;
+	position: absolute;
+	background-color: #967AA1;
 	width:250px;
 	height: 100%;
 	z-index: 1;
+	visibility: hidden;
 }
 
+.menu-open .menu {
+    visibility: visible;
+    -webkit-transition: -webkit-transform 0.5s;
+    transition: transform 0.5s;
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+}
 
 	
 
@@ -90,7 +99,6 @@ header {
   padding: 20px;
   position: relative;
   top: 0;
-  background: #8f3985;
   width: 100%;
 }
 
