@@ -71,9 +71,9 @@ body {
 
 .menu {
 	position: absolute;
-	background-color: #967AA1;
+	background-color: #FFD9DA;
 	width:250px;
-	height: 100%;
+	height: auto;
 	z-index: 1;
 }
 
