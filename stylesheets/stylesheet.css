@@ -70,8 +70,7 @@ body {
 
 
 .menu {
-	position: absolute;
-	background-color: #FFD9DA;
+	position: fixed;
 	width:250px;
 	height: auto;
 	z-index: 1;
