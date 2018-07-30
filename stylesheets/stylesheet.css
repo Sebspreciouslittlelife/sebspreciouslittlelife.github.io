@@ -175,7 +175,7 @@ header h2 {
   background: transparent url(../images/IMG_2020.GIF);
   background-size: contain;
 	
-}
+}	
 
 #home {
 	width:200px;
@@ -831,6 +831,13 @@ footer a:hover {
   }
 }
 
+function w3_open() {
+    document.getElementById("menu").style.display = "block";
+}
+function w3_close() {
+    document.getElementById("menu").style.display = "none";
+}	
+	
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
 @media only screen and (min-width: 480px) and (max-width: 767px) { }
 
