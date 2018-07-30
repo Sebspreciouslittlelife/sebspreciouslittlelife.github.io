@@ -34,8 +34,8 @@
             
         </header>
       
-	    <div class="button" ><span>Menu</span>
-      <div class="menu">
+<div class="menu" >
+      <button onclick="w3_close()" class="w3-bar-item w3-large">Close &times;</button>
               <a href="../Poetry.html" class="button"><span>Poetry</span></a>
               <br>
               <a href="../Prose.html" class="button"><span>Prose</span></a>
@@ -45,7 +45,8 @@
               <a href="../About.html" class="button"><span>About</span></a>
         </div>
 	    </div>
-        
+  
+<button onclick="w3_open()">☰</button>
        
       <div class="inner">
         <br>
@@ -71,23 +72,6 @@
           <br>
 
         </section>
-
-	      <script>
-var acc = document.getElementsByClassName("button");
-var i;
-
-for (i = 0; i < acc.length; i++) {
-  acc[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var panel = this.nextElementSibling;
-    if (panel.style.maxHeight){
-      panel.style.maxHeight = null;
-    } else {
-      panel.style.maxHeight = panel.scrollHeight + "px";
-    } 
-  });
-}
-</script>
         
       </div>
       <footer>
