@@ -25,7 +25,6 @@
 			<div style="background-image:url(../p9.JPG)"></div>
 			<div style="background-image:url(../p10.JPG)"></div>
 			<div style="background-image:url(../p11.JPG)"></div>
-			<div style="background-image:url(../p12.JPG)"></div>
 		</div>
 	</div>
 </div>
@@ -65,8 +64,8 @@ function loadApp() {
 
 yepnope({
 	test : Modernizr.csstransforms,
-	yep: ['../../javascripts/turn.js'],
-	nope: ['../../lib/turn.html4.min.js'],
+	yep: ['../javascripts/turn.js'],
+	nope: ['../javascripts/turn.html4.min.js'],
 	both: ['../basic.css'],
 	complete: loadApp
 });
