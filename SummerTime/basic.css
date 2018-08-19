@@ -32,7 +32,6 @@ body{
 	height:600px;
 	background-color: white;
 	background-repeat:no-repeat;
-	background-clip: padding-box;
 	background-size:100% 100%;
 }
 
@@ -52,7 +51,6 @@ body{
 	-ms-user-select: none;
 	user-select: none;
 	margin:0;
-	background-clip: padding-box;
 }
 
 .flipbook-viewport .shadow{
