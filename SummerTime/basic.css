@@ -51,6 +51,7 @@ body{
 	-ms-user-select: none;
 	user-select: none;
 	margin:0;
+	background-clip: padding-box;
 }
 
 .flipbook-viewport .shadow{
