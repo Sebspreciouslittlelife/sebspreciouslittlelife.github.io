@@ -33,7 +33,7 @@ body{
 	background-color: white;
 	background-repeat:no-repeat;
 	background-size:100% 100%;
-	border: black;
+	box-shadow: 0 0 20px rgba(0,0,0,0.2);
 }
 
 .flipbook .page{
@@ -64,5 +64,5 @@ body{
 	-moz-box-shadow:0 0 20px #ccc;
 	-o-box-shadow:0 0 20px #ccc;
 	-ms-box-shadow:0 0 20px #ccc;
-	box-shadow:0 0 20px #ccc;
+	box-shadow: 0 0 20px rgba(0,0,0,0.2);
 }
