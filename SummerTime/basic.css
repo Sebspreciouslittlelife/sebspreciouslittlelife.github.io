@@ -26,6 +26,7 @@ body{
 	height:600px;
 	left:-461px;
 	top:-300px;
+	box-shadow:0 0 20px rgba(0,0,0,0.2);
 }
 
 .flipbook-viewport .page{
@@ -53,6 +54,7 @@ body{
 	-ms-user-select: none;
 	user-select: none;
 	margin:0;
+	box-shadow:0 0 20px rgba(0,0,0,0.2);
 }
 
 .flipbook-viewport .shadow{
