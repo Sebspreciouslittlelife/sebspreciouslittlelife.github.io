@@ -69,7 +69,10 @@ body{
 	-ms-box-shadow:0 0 20px #ccc;
 	box-shadow: 20px 20px 20px #ccc;
 }
+
 @media only screen and (max-width: 600px) {
     .flipbook-viewport{
-	aspect-ratio: 50%;
+	max-height: 20%;
+	max-width: 20%;
+	align: center;
 }	
