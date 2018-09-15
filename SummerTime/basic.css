@@ -74,8 +74,8 @@ body{
     .flipbook-viewport .flipbook{
 	width:481px;
 	height:600px;
-	top:0;
-	left:0;
+	top:50%;
+	left:50%;
 	box-shadow:20px 20px 20px rgba(0,0,0,0.2);
 }
 
