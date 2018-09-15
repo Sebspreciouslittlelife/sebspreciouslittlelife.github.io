@@ -72,8 +72,9 @@ body{
 
 @media screen and (max-width: 900px) and (min-width: 600px) {
     body{
-	width: 30%;
-	height: 30%;
-	align: center;
+	width: 600px;
+	height: 600px;
+	margin: auto;
+	padding: 0;
 	}
 }	
