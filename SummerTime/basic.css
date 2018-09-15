@@ -71,12 +71,6 @@ body{
 }
 
 @media screen and (max-width: 900px) and (min-width: 600px) {
-    body{
-	width: 100%;
-	height: 600px;
-	margin: auto;
-	padding: 0;
-	}
     .flipbook-viewport .flipbook{
 	width:481px;
 	height:600px;
