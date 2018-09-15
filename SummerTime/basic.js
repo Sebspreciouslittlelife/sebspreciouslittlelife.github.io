@@ -84,7 +84,35 @@ function loadSmallPage(page, pageElement) {
 	img.attr('src', 'pages/' +  page + '.jpg');
 }
 
+// Using arrow keys to turn the page
 
+	$(document).keydown(function(e){
+
+		var previous = 37, next = 39, esc = 27;
+
+		switch (e.keyCode) {
+			case previous:
+
+				// left arrow
+				$('.magazine').turn('previous');
+				e.preventDefault();
+
+			break;
+			case next:
+
+				//right arrow
+				$('.magazine').turn('next');
+				e.preventDefault();
+
+			break;
+			case esc:
+				
+				$('.magazine-viewport').zoom('zoomOut');	
+				e.preventDefault();
+
+			break;
+		}
+	});
 
 // http://code.google.com/p/chromium/issues/detail?id=128488
 function isChrome() {
