@@ -16,16 +16,16 @@ body{
 
 .flipbook-viewport .container{
 	position:absolute;
-	top:50%;
-	left:50%;
+	/*top:50%;
+	left:50%;*/
 	margin:auto;
 }
 
 .flipbook-viewport .flipbook{
 	width:481px;
 	height:600px;
-	left:50%;
-	top:50%;
+	/*left:50%;
+	top:50%;*/
 	box-shadow:20px 20px 20px rgba(0,0,0,0.2);
 }
 
@@ -69,5 +69,7 @@ body{
 	-ms-box-shadow:0 0 20px #ccc;
 	box-shadow: 20px 20px 20px #ccc;
 }
+
+
 
 	
