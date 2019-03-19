@@ -157,6 +157,7 @@ header h2 {
   border-left: solid 1px blue;
   background-image: transparent url(../images/IMG_2020.GIF);
   background-size: contain; 
+  cursor: pointer;
 }
 
 .button span {
