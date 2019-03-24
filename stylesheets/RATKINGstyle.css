@@ -58,7 +58,6 @@ body {
   font-family: 'Amiko', sans-serif;;
   font-size: 1em;
   line-height: 1.5;
-  color: Black;
   background-color: #232323;
 }
 
@@ -154,7 +153,7 @@ header h2 {
   display: block;
   background: transparent url(../images/rat.gif);
   background-size: cover;
-  padding: none;
+  padding: 0;
 	
 }	
 
