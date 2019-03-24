@@ -138,8 +138,6 @@ header h2 {
   box-shadow: 0px 1px 5px #e8e8e8;
   /*-moz-border-radius: 30px;
   -webkit-border-radius: 30px;*/
-  background-image: transparent url(../images/rat.gif);
-  background-size: 50%; 
 
 }
 .button:hover {
@@ -149,15 +147,13 @@ header h2 {
   border-right: solid 1px blue;
   border-bottom: solid 1px blue;
   border-left: solid 1px blue;
-  background-image: transparent url(../images/rat.gif);
-  background-size: contain; 
   cursor: pointer;
 }
 
 .button span {
   display: block;
   background: transparent url(../images/rat.gif);
-  background-size: contain;
+  background-size: 50%;
 	
 }	
 
