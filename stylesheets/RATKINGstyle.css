@@ -211,6 +211,7 @@ hr {
   line-height: 1px;
   background: transparent url('../images/hr.png') 50% 0 no-repeat;
   border: none;
+
 }
 
 strong {
@@ -251,6 +252,7 @@ h1 {
   color:  #F5E6E8;
   letter-spacing: 1px;
   font-size: 32px;
+  text-align: center;
 }
 
 h2 {
