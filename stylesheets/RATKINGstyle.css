@@ -123,7 +123,6 @@ header h2 {
   font-size: 15px;
   font-weight: 9000;
   line-height: 25px;
-  color: Black;
   text-align: center;
   background: #F4E2B2; /* Old browsers */
    /* filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fdfdfd', endColorstr='#f2f2f2',GradientType=0 ); /* IE6-9 */
@@ -154,7 +153,7 @@ header h2 {
 .button span {
   display: block;
   background: transparent url(../images/rat.gif);
-  background-size: 25%;
+  background-size: cover;
   padding: none;
 	
 }	
