@@ -64,7 +64,8 @@ body {
 
 
 .menu {
-	position: center;
+	position: absolute;
+	margin: auto;
 	width:250px;
 	height: auto;
 	z-index: 1;
