@@ -65,7 +65,7 @@ body {
 
 .menu {
 	position: absolute;
-	margin: auto;
+	margin: 0 auto;
 	width:250px;
 	height: auto;
 	z-index: 1;
@@ -149,21 +149,21 @@ header h2 {
   border-right: solid 1px blue;
   border-bottom: solid 1px blue;
   border-left: solid 1px blue;
-  background-image: transparent url(../images/gif 1_0.gif);
+  background-image: transparent url(../images/rat.gif);
   background-size: contain; 
   cursor: pointer;
 }
 
 .button span {
   display: block;
-  background: transparent url(../images/gif 1_0.gif);
+  background: transparent url(../images/rat.gif);
   background-size: contain;
 	
 }	
 
 #home {
 	width:200px;
-	background-image: transparent url(../images/gif 1_0.gif);
+	background-image: transparent url(../images/rat.gif);
 	background-size: contain;
 }
 
