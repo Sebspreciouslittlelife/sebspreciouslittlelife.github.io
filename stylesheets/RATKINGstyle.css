@@ -152,8 +152,9 @@ header h2 {
 .button span {
   display: block;
   background: transparent url(../images/rat.gif);
-  background-size: cover;
-  padding: 0;
+  background-size: 50%100%;
+  padding: 30px 10px 5px;
+  height: 40px;
 	
 }	
 
