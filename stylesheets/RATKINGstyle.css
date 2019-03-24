@@ -64,7 +64,7 @@ body {
 
 
 .menu {
-	position: fixed;
+	position: center;
 	width:250px;
 	height: auto;
 	z-index: 1;
