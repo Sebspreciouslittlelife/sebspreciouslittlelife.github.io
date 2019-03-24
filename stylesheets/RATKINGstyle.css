@@ -138,8 +138,8 @@ header h2 {
   box-shadow: 0px 1px 5px #e8e8e8;
   /*-moz-border-radius: 30px;
   -webkit-border-radius: 30px;*/
-  background-image: transparent url(../images/gif 1_0.gif);
-  background-size: contain; 
+  background-image: transparent url(../images/rat.gif);
+  background-size: 50%; 
 
 }
 .button:hover {
