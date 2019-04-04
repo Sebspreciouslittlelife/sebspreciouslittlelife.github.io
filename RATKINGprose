@@ -1,0 +1,91 @@
+<!doctype html>
+<!--[if lt IE 7 ]> <html lang="en" class="ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" class="ie9"> <![endif]-->
+<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->
+<head>
+<meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <link href="https://fonts.googleapis.com/css?family=Shrikhand" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Amiko" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="stylesheets/RATKINGstyle.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-dark.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <title>WEARERATKING by Sebspreciouslittlelife</title>
+    <meta property="og:image" content="../images/RatKingBanner.png" />
+    <meta property="og:title" content="sebspreciouslittlelife.github.io/RATKINGprose.html" />
+    <meta property="og:url" content="http://sebspreciouslittlelife.github.io/RATKINGprose.html"/>
+    <meta property="og:description" content="RATTICUS" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <script src="jquery-3.3.1.min.js"></script>
+          <script type="text/javascript" src="../javascripts/zoom.min.js"></script>
+          <script type="text/javascript" src="../javascripts/turn.min.js"></script>
+          <script type="text/javascript" src="../javascripts/hash.js"></script>
+</head>
+<body>
+<div class="flipbook-viewport">
+	<div class="container">
+		<!-- Next button -->
+		<div ignore="1" class="next-button"></div>
+		<!-- Previous button -->
+		<div ignore="1" class="previous-button"></div>
+		
+		<div class="flipbook">
+		<div class="hard" style="background-image: url(Forget-Me-Not.pdf)"></div>
+    <div class="page" style="background-image: url(Sheep.pdf)"></div>
+		</div>
+	</div>
+</div>
+
+
+<script type="text/javascript">
+	// Create the flipbook
+	$('.flipbook').turn({
+			// Width
+			width:922,
+			
+			// Height
+			height:600,
+			// Elevation
+			elevation: 50,
+			
+			// Enable gradients
+			gradients: true,
+			
+			// Auto center this flipbook
+			autoCenter: true
+	});
+	
+	window.addEventListener('resize', function (e) {
+    var size = resize(el);
+    $(el).turn('size', size.width, size.height);
+});
+	function resize(el) {
+    // reset the width and height to the css defaults
+    el.style.width = '';
+    el.style.height = '';
+    var width = el.clientWidth,
+        height = Math.round(width / this.ratio),
+        padded = Math.round(document.body.clientHeight * 0.9);
+    // if the height is too big for the window, constrain it
+    if (height > padded) {
+        height = padded;
+        width = Math.round(height * this.ratio);
+    }
+    // set the width and height matching the aspect ratio
+    el.style.width = width + 'px';
+    el.style.height = height + 'px';
+    return {
+        width: width,
+        height: height
+    };
+}
+</script>
+	
+	
+</body>
+</html>
