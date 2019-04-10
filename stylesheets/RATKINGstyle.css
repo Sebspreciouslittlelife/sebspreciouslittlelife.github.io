@@ -73,6 +73,8 @@ body {
 input#menu {
     display: none;
 }
+.menu-content{
+}
 
 a {
   color: #25283D;
