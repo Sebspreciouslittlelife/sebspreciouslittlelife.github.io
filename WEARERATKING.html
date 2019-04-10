@@ -28,15 +28,13 @@
         <header>
           <img src="../images/RatKingBanner.png" style="width:100%">
           <h2>Welcome to the knot.</h2>
-	  <div class="button" style="margin:0 auto" onclick="w3_open()"><span>Menu</span></div>
+	  <div class="button" style="margin:0 auto" onclick="toggleMenu"><span>Menu</span></div>
             
         </header>
   
   </body>
   <br>
   <div class="menu" style="display:none" id="menu">
-	<div class="button" onclick="w3_close()" class="w3-bar-item w3-large"><span>Close &times;</span></div>
-	  <br>
               <a href="../RATKINGarticles.html" class="button"><span>Articles</span></a>
               <br>
               <a href="../RATKINGvisualarts.html" class="button"><span>Visual Art</span></a>
@@ -55,11 +53,13 @@
         </footer>
     </div>
 		  <script>
-function w3_open() {
-    document.getElementById("menu").style.display = "block";
-}
-function w3_close() {
-    document.getElementById("menu").style.display = "none";
+function toggleMenu() {
+  var x = document.getElementById("menu");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
 }
 	</script>
 	  
