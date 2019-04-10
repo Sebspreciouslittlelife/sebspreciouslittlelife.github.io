@@ -70,6 +70,9 @@ body {
 	z-index: 0;
 	cursor: pointer;
 }
+input#menu {
+    display: none;
+}
 
 a {
   color: #25283D;
