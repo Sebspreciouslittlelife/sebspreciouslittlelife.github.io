@@ -68,7 +68,7 @@ body {
 	margin: 0 auto;
 	width:250px;
 	height: auto;
-	z-index: 0;
+	z-index: 1;
 	cursor: pointer;
 }
 
