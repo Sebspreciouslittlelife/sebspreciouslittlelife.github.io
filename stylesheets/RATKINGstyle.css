@@ -115,6 +115,11 @@ header h2 {
 #container .inner img {
   max-width: 100%;
 }
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
 .column {
   flex: 50%;
   max-width: 50%;
