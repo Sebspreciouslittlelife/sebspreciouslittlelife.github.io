@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <link href="https://fonts.googleapis.com/css?family=Shrikhand" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Amiko" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="stylesheets/RATKINGstyle.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-dark.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <title>Sebastiantaylor.org/photos by Sebspreciouslittlelife</title>
+    <meta property="og:image" content="https://raw.githubusercontent.com/Sebspreciouslittlelife/sebastiantaylor/gh-pages/images/IMG_2420.JPG" />
+    <meta property="og:title" content="sebastiantaylor/photos.org" />
+    <meta property="og:url" content="http://sebastiantaylor/photos.org"/>
+    <meta property="og:description" content="O Miranda"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	
+</head>
+<body>
+	
+	
+ <div id="container">
+	 <header>
+   	 </header>
+		<div class="inner">
+		
+		
+		<div class="column">
+    <img src="../images/IMG_2019.JPG">
+    <p> Hi, I'm Sebastian Taylor </p>
+    </div>
+    
+    <div class="column">
+    <img src="../images/KaitPic.jpg">
+    <p> Hi, I'm Kait Kelly </p>
+    </div>
+    
+			
+
+
+ 
+			
+	<br><br>
+			<a href="http://sebspreciouslittlelife.github.io/WEARERATKING.html" id="home" class="button"><span>Home</span></a>
+			
+
+    
+    </div>
+    </div>
+    </body>
