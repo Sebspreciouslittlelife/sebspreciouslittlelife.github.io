@@ -55,7 +55,7 @@ table {
 /* LAYOUT STYLES */
 body {
   position: static;
-  font-family: 'Amiko', sans-serif;;
+  font-family: 'Courier New', Courier, monospace;
   font-size: 1em;
   line-height: 1.5;
   background-color: #232323;
@@ -85,7 +85,7 @@ header {
 }
 
 header h1 {
-  font-family: 'Shrikhand', cursive;
+  font-family: 'Courier New', Courier, monospace;
   font-size: 48px; font-weight: 900;
   line-height: 1.2;
   color:  #F5E6E8;
@@ -268,7 +268,7 @@ form {
 /* GENERAL ELEMENT TYPE STYLES */
 
 h1 {
-  font-family: 'Shrikhand', cursive;	
+  font-family: 'Courier New', Courier, monospace;	
   line-height: 1.2;
   color:  #F5E6E8;
   letter-spacing: 1px;
